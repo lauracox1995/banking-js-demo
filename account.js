@@ -4,3 +4,5 @@ console.log('Balance:£' + balance);
 if( balance <500)
 {console.log ("WARNING: Low Balance");
 }
+if (balance >= 1000)
+{console.log('Review required')};
